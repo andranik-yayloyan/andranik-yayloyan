@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm a Future Front-End Developer 👋
 
-<!--
-**andranik-yayloyan/andranik-yayloyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning web development and JavaScript.
 
-Here are some ideas to get you started:
+### What I'm learning
+- HTML and CSS
+- JavaScript
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My goals
+- Build my first independent web projects
+- Improve my problem-solving skills
+- Learn to use AI tools effectively in software development
+
+I'm learning step by step and sharing my progress here.
+
+
